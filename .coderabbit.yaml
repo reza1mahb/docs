@@ -6,7 +6,7 @@ reviews:
   review_status: false
   collapse_walkthrough: false
   path_instructions:
-    - path: "**/*.mdx"
+    - path: "**/*.mdx",m
       instructions: |
         "ALWAYS review Markdown content THOROUGHLY with the following criteria:
         1. Use proper nouns in place of personal pronouns like 'We' and 'Our' to maintain consistency in communal documentation.
